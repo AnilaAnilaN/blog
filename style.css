@@ -319,7 +319,6 @@ h1, h2, h3, h4, h5 {
     }
 }
 
-/* Add these new styles to your existing CSS */
 
 /* Auth buttons in navbar */
 .auth-buttons {
@@ -365,7 +364,7 @@ h1, h2, h3, h4, h5 {
     }
 }
 
-/* Add this to make buttons stand out more */
+
 .btn-primary {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
